@@ -13,6 +13,19 @@
 
 ---
 
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/melihkaratay" title="Instagram - Melih Karatay">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://tr.linkedin.com/in/melih-karatay-1ab035b9" title="LinkedIn - Melih Karatay">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 <p align="center">
   <p align="center">
@@ -67,17 +80,6 @@
   <a href="https://learn.microsoft.com/powershell/">
     <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/melihkaratay">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://tr.linkedin.com/in/melih-karatay-1ab035b9">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
 </p>
 
 ---
