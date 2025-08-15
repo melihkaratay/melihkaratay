@@ -84,21 +84,15 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melihkaratay&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihkaratay&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
 ## 📫 Connect with Me
+<h2> 
 <p align="center">
-  🌐 <a href="https://www.melihkaratay.com">Website</a> • 
-  📧 <a href="mailto:melihkaratay@gmail.com">Email</a> • 
+  🌐 <a href="https://www.melihkaratay.com">Website</a> |
+  📧 <a href="mailto:melihkaratay@gmail.com">Email</a> | 
   🔗 <a href="https://github.com/melihkaratay">GitHub</a>
 </p>
+</h2>
 
----
+
 
 <p align="center"><b>🚀 Building connected, automated, and intelligent manufacturing systems — from shop floor to ERP, one project at a time.</b></p>
