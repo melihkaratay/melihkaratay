@@ -28,7 +28,6 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <p align="center">
   <a href="https://learn.microsoft.com/dotnet/csharp/">
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   </a>
@@ -80,7 +79,20 @@
   <a href="https://learn.microsoft.com/powershell/">
     <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" />
   </a>
+  <a href="https://www.microsoft.com/sql-server/">
+    <img width="48" height="48" alt="icons8-microsoft-sql-server-48" src="https://github.com/user-attachments/assets/4a784d26-67d0-4f85-a9bf-4322e41c0af8" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.influxdata.com/">
+   <img width="48" height="48" alt="icons8-influxdb-64" src="https://github.com/user-attachments/assets/cdbf5575-bb50-4947-9fd0-bb1afabeb76a" />
+  </a>
 </p>
+
 
 ---
 
